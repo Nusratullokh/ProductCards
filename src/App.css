@@ -1,0 +1,26 @@
+.app {
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  gap: 3px;
+}
+.app__content> h2{
+  font-family: "Archivo Black", sans-serif;
+  font-size: 30px;
+}
+h1, h2 {
+  color: #333;
+}
+
+.products__grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+
+.liked__products >h2{
+  font-family: "Archivo Black", sans-serif;
+font-size: 30px;
+}
